@@ -1,0 +1,1 @@
+A Python-based Hangman Game built for the CodeAlpha Python Programming Internship. Players guess a hidden word letter by letter within limited attempts, using loops, conditionals, and input validation. Demonstrates core Python logic-building skills through an interactive console game.
